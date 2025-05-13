@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-lalafi-app/static/css/main.62f14600.css",
+    "main.js": "/my-lalafi-app/static/js/main.82529c0b.js",
+    "static/js/453.ded1e8ed.chunk.js": "/my-lalafi-app/static/js/453.ded1e8ed.chunk.js",
+    "index.html": "/my-lalafi-app/index.html",
+    "main.62f14600.css.map": "/my-lalafi-app/static/css/main.62f14600.css.map",
+    "main.82529c0b.js.map": "/my-lalafi-app/static/js/main.82529c0b.js.map",
+    "453.ded1e8ed.chunk.js.map": "/my-lalafi-app/static/js/453.ded1e8ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62f14600.css",
+    "static/js/main.82529c0b.js"
+  ]
+}
